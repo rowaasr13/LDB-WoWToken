@@ -1,7 +1,7 @@
 ## Interface: 110002
 
 ## Title: LDB: WoW Token
-## Version: v9
+## Version: v10
 ## Notes: Monitors and displays WoW Token price change history through any LDB display.
 ## IconTexture: Interface\Icons\WoW_Token01
 ## Author: Oleg "Rowaa[SR13]" Volkov
